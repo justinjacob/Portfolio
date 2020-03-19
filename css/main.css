@@ -36,24 +36,4 @@ text-decoration: none;
 margin-right: 4em;
 }
 
-.logo{
-    flex: 1 1 auto;
-    margin-left: 1em;
-    text-transform: uppercase;
-    font-weight: bold;
-    letter-spacing: 0.5em;
-    font-size: 1.5em;
-}
 
-a{
-    margin: 0.5em;
-    color: #000;
-    text-decoration: none;
-    text-transform: uppercase;
-}
-
-/* Page content */
-.content {
-position: relative;
-padding-top: 100px;
-}
